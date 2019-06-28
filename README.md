@@ -1,0 +1,2 @@
+# trinityjanken
+bot trinity janken
